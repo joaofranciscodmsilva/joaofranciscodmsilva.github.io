@@ -1,12 +1,9 @@
 ---
-page_id: blog
 layout: default
 permalink: /blog/
-title: blog
-blog_name: al-folio in english
-description: a simple whitespace theme for academics
+title: Blog
 nav: true
-nav_order: 1
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
@@ -21,14 +18,14 @@ pagination:
 
 <div class="post">
 
-{% assign blog_name_size = page.blog_name | size %}
-{% assign blog_description_size = page.description | size %}
+{% assign blog_name_size = site.blog_name | size %}
+{% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ page.blog_name }}</h1>
-    <h2>{{ page.description }}</h2>
+    <h1>{{ site.blog_name }}</h1>
+    <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
@@ -145,7 +142,7 @@ pagination:
       <p>{{ post.description }}</p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {% include date_format.liquid format="long" date=post.date %}
+        {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
