@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://joaofranciscodmsilva.github.io/sitemap.xml
