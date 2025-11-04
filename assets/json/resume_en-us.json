@@ -1,24 +1,25 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "João Francisco Domingues de Moura e Silva",
+    "label": "Electrical engineering student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "joaofranciscodmsilva@protonmail.com",
+    "phone": "+55 (15) 99755-7974",
+    "url": "https://joaofranciscodmsilva.github.io",
+    "summary": "Graduate student of electrical engineering at USP, campus of São Carlos. Currently working in my end of course project about voltage stability analysis in electrical networks with high presence of photovoltaic generation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Araraquara-SP",
+      "region": "Brasil"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "joaofranciscodmsilva",
+        "url": "https://https://github.com/joaofranciscodmsilva"
+      },
+      {"network": "LinkedIn",
+        "username": "joaofranciscodmsilva",
+        "url": "https://www.linkedin.com/in/joaofranciscodmsilva/"
       }
     ]
   },
