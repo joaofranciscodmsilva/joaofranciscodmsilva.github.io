@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /repositories/
-title: Repositories
-description: Alguns de meus repositórios / Some of my repositories
+permalink: /repositorios/
+title: Repositórios
+description: Alguns de meus repositórios
 nav: true
 nav_order: 4
 ---

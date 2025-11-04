@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
-description: members of the lab or group
+permalink: /pessoas/
+title: Pessoas
+description: Membros do laboratório ou grupo.
 nav: true
 nav_order: 7
 
