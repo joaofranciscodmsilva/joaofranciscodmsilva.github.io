@@ -27,8 +27,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us/cv/";
           },
-        },{id: "nav-projetos",
-          title: "Projetos",
+        },{id: "nav-projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation menu",
           handler: () => {
@@ -466,27 +466,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/en-us/6_project/";
             },},{
-        id: 'social-email',
-        title: 'Send an email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6A%6F%61%6F%66%72%61%6E%63%69%73%63%6F%64%6D%73%69%6C%76%61@%70%72%6F%74%6F%6E%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/joaofranciscodmsilva", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/joaofranciscodmsilva", "_blank");
-        },
-      },{
           id: 'lang-pt-br',
           title: 'pt-br',
           section: 'Languages',
