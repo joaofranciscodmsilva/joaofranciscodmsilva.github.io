@@ -7,7 +7,7 @@ first_name: João Francisco
 middle_name: Domingues de Moura e
 last_name: Silva
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👤 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://joaofranciscodmsilva.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
