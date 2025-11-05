@@ -194,12 +194,15 @@ exclude:
   - _pages/pt-br/teaching.md
   - _pages/pt-br/profiles.md
   - _pages/pt-br/dropdown.md
+  - _pages/pt-br/blog.md
+  - _pages/pt-br/projects.md
   - _pages/en-us/repositories.md
   - _pages/en-us/publications.md
   - _pages/en-us/teaching.md
   - _pages/en-us/profiles.md
   - _pages/en-us/dropdown.md
-
+  - _pages/en-us/blog.md
+  - _pages/en-us/projects.md
 keep_files:
   - CNAME
   - .nojekyll
