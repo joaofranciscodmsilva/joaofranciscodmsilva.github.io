@@ -29,6 +29,7 @@
       "position": "Quality intern",
       "startDate": "2025-06",
       "endDate": "",
+      "location": "Araraquara-SP, Brasil",
       "highlights": ["Desenvolvimento de projetos de melhoria de processos no almoxarifado e oficina de manutenção de locomotivas. Implementação de conceitos como 5S e Lean Manufacturing nesses projetos.", "Emissão de relatórios de não-conformidades de peças e sistemas das locomotivas. Trabalho com desenhos técnicos e comparação com materiais físicos. Análises de tendências das não-conformidades e geração de planos de ação para eliminação de futuras reincidências.", "Automatização de processos administrativos e análise de dados relacionados ao setor de Qualidade com ferramentas Microsoft, como o PowerAutomate, PowerBI, e programação em Python."]
     },
     {
@@ -36,19 +37,22 @@
       "position": "Intern of photovoltaic systems",
       "startDate": "2024-09",
       "endDate": "2025-07",
+      "location": "São Carlos - SP, Brasil",
       "highlights": ["Desenvolvimento de projeto e memorial descritivo para instalações fotovoltaicas no câmpus da USP São Carlos. Módulos fotovoltaicos, inversores, sistemas de medição e proteção.", "Uso de AUTOCAD para criação de diagramas 2D, diagramas unifilares. Conhecimentos sobre normas técnicas ABNT e ANEEL. Uso do software PVSyst para design de sistemas fotovoltaicos.","Análises de custos, manutenção de documentos, organização de visitas técnicas e outras atividades administrativas do GT de Transição Energética da USP."]
     },
     {
       "name": "Ambar Tech",
       "position": "Quality analyst",
       "startDate": "2024-05",
-      "endDate": "2025-10"
+      "endDate": "2025-10",
+      "location": "São Carlos - SP, Brasil"
     },
     {
       "name": "Ambar Tech",
       "position": "Quality intern",
       "startDate": "2023-03",
       "endDate": "2024-05",
+      "location": "São Carlos - SP, Brasil",
       "highlights": ["Elaboração de orçamentos, análises de custos de projetos e obras, uso de Revit e AUTOCAD para visualização dos projetos recebidos, comparação de métodos de construção tradicionais e soluções da companhia.","Análise de dados e criação de painéis para informar sobre estoques, compras, vendas, produção, pagamentos de salários e benefícios. Com ferramentas como ERP TOTVS Protheus, Salesforce, Excel, Google Sheets, PostgreSQL, Power BI, LookerStudio.","Participação de projetos de melhoria de processos na área de estoque, compras, produção. Criação de cronogramas e ferramentas para aplicação das melhorias."]
     },
     {
@@ -61,9 +65,9 @@
   ],
   "education": [
     {
-      "institution": "Universidade de São Paulo - USP. Escola de Engenharia de São Carlos - EESC",
+      "institution": "Universidade de São Paulo - USP.",
       "location": "São Carlos - SP, Brasil",
-      "area": "Engineering",
+      "area": "Escola de Engenharia de São Carlos - EESC",
       "studyType": "Graduate",
       "startDate": "2020-01-01",
       "endDate": "",
@@ -71,24 +75,15 @@
       "courses": ["Electrical engineering, emphasis in systems of energy and automation"]
     }
   ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
-  ],
   "languages": [
     {
-      "language": "Português",
-      "fluency": "Nativo",
+      "language": "Portuguese",
+      "fluency": "Native",
       "icon": ""
     },
     {
-      "language": "Inglês",
-      "fluency": "Fluente",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     }
   ]
