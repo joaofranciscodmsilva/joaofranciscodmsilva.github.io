@@ -29,17 +29,10 @@ ninja.data = [{
           },
         },{id: "nav-projetos",
           title: "Projetos",
-          description: "A growing collection of your cool projects.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-projetos",
-          title: "Projetos",
           description: "Alguns de meus projetos.",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/projetos/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-blog",
           title: "Blog",
