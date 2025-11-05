@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projetos
-permalink: /projetos/
+permalink: /projects/
 description: Alguns de meus projetos.
 nav: true
 nav_order: 2
