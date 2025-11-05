@@ -25,5 +25,5 @@ profile:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Estudante de graduação de engenharia elétrica na USP de São Carlos. Estagiário de Qualidade na Wabtec, em Araraquara-SP.
+Estudante de engenharia elétrica na USP, campus de São Carlos. Atualmente trabalhando em meu TCC sobre análise de estabilidade de tensão em redes com alta presença de geração fotovoltaica. E trabalhando como estagiário de qualidade na Wabtec Corporation, em Araraquara-SP.
 
