@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Sobre
+title: About
 permalink: /
 subtitle: # Affiliations. Address. Contacts. Motto. Etc.
 
@@ -25,5 +25,5 @@ profile:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Estudante de graduação de engenharia elétrica na USP de São Carlos. Estagiário de Qualidade na Wabtec, em Araraquara-SP.
+Graduate student of electrical engineering at USP, campus of São Carlos. Quality intern at Wabtec, in Araraquara-SP.
 
