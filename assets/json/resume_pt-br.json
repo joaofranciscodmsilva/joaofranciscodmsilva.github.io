@@ -61,6 +61,27 @@
       "startDate": "2022-01",
       "endDate": "2023-03",
       "highlights": ["Aulas de conversação, gramática, vocabulário.","Preparação de apostilas, exercícios, cronogramas e planos das aulas."]
+    },
+    {
+      "name": "EESC-USP Tupã (Equipe de Fórmula SAE Elétrico)",
+      "position": "Diretor do Sistema Elétrico",
+      "startDate": "2021-01",
+      "endDate": "2022-02",
+      "highlights": ["Liderança de uma equipe de 20 pessoas no projeto, manufatura e validação do sistema elétrico de um carro para a competição da Fórmula SAE Brasil.","Coordenação da equipe, inspeção de projetos, garantia da segurança da manufatura e testes do carro, tomada de decisões relacionadas a engenharia, custos, manufaturabilidade."]
+    },
+    {
+      "name": "EESC-USP Tupã (Equipe de Fórmula SAE Elétrico)",
+      "position": "Gerente do Powertrain",
+      "startDate": "2019-12",
+      "endDate": "2020-12",
+      "highlights": ["Trabalho em um veículo elétrico no sistema de controle dos motores. Uso de conhecimentos de modelagem de sistemas dinâmicos, programação, dinâmica veicular, MATLAB, Simulink e softwares de simulação automotiva.","Liderança de uma equipe de 4-5 membros, educação dos novos membros por meio da organização de cursos e aulas. "]
+    },
+    {
+      "name": "EESC-USP Tupã (Equipe de Fórmula SAE Elétrico)",
+      "position": "Membro do Powertrain",
+      "startDate": "2019-12",
+      "endDate": "2020-12",
+      "highlights": ["Trabalho em um veículo elétrico no sistema de controle dos motores. Uso de conhecimentos de modelagem de sistemas dinâmicos, programação, dinâmica veicular, MATLAB, Simulink e softwares de simulação automotiva."]
     }
   ],
   "education": [

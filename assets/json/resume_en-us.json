@@ -61,6 +61,27 @@
       "startDate": "2022-01",
       "endDate": "2023-03",
       "highlights": ["Conversation, grammar and vocabulary classes.","Preparation of exercises, handouts, course and classes cronograms and plans."]
+    },
+    {
+      "name": "EESC-USP Tupã (Electric Formula SAE Team)",
+      "position": "Electric System Director",
+      "startDate": "2021-01",
+      "endDate": "2022-02",
+      "highlights": ["Leadership of a 20 person team, working in the project, manufacture and validation of the electric systems of a race car for the Formula SAE Brasil competition.","Coordination of the team, inspection of projects, safety in manufacture and tests of the car, decision taking related to engineering, costs, manufacturabilty."]
+    },
+    {
+      "name": "EESC-USP Tupã (Electric Formula SAE Team)",
+      "position": "Powertrain manager",
+      "startDate": "2019-12",
+      "endDate": "2020-12",
+      "highlights": ["Work in an electric race vehicle with its motor control. Use of knowledge in modeling of dynamic systems, programming, vehicle dynamics, MATLAB, Simulink and automotive simulation softwares.","Leadership of a team of 5 members, education of new members through organization of courses and classes."]
+    },
+    {
+      "name": "EESC-USP Tupã (Electric Formula SAE Team)",
+      "position": "Powertrain member",
+      "startDate": "2019-12",
+      "endDate": "2020-12",
+      "highlights": ["Work in an electric race vehicle with its motor control. Use of knowledge in modeling of dynamic systems, programming, vehicle dynamics, MATLAB, Simulink and automotive simulation softwares."]
     }
   ],
   "education": [
