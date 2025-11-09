@@ -25,5 +25,5 @@ profile:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Graduate student of electrical engineering at USP, campus of São Carlos. Quality intern at Wabtec, in Araraquara-SP.
+Graduate student of electrical engineering at USP, campus of São Carlos. Currently working in my end of course project about voltage stability analysis in electrical networks with high presence of photovoltaic generation. And working as quality intern at Wabtec Corporation, in Araraquara-SP, Brazil.
 

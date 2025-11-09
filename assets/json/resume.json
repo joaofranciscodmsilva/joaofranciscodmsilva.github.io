@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "João Francisco Domingues de Moura e Silva",
+    "label": "Estudante de engenharia elétrica",
+    "image": "",
+    "email": "joaofranciscodmsilva@protonmail.com",
+    "phone": "+55 (15) 99755-7974",
+    "url": "https://joaofranciscodmsilva.github.io",
+    "summary": "Estudante de engenharia elétrica na USP de São Carlos, trabalhando em meu TCC sobre análise de estabilidade de tensão em redes com alta presença de geração fotovoltaica.",
+    "location": {
+      "address": "Araraquara-SP",
+      "region": "Brasil"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "joaofranciscodmsilva",
+        "url": "https://https://github.com/joaofranciscodmsilva"
+      },
+      {"network": "LinkedIn",
+        "username": "joaofranciscodmsilva",
+        "url": "https://www.linkedin.com/in/joaofranciscodmsilva/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wabtec",
+      "position": "Estagiário de Qualidade - Quality Intern",
+      "startDate": "2025-06",
+      "endDate": "",
+      "summary": "Desenvolvimento de projetos de melhoria de processos no almoxarifado e oficina de manutenção de locomotivas. Implementação de conceitos como 5S e Lean Manufacturing nesses projetos. \n\n Emissão de relatórios de não-conformidades de peças e sistemas das locomotivas. Trabalho com desenhos técnicos e comparação com materiais físicos. Análises de tendências das não-conformidades e geração de planos de ação para eliminação de futuras reincidências. \n\n Automatização de processos administrativos e análise de dados relacionados ao setor de Qualidade com ferramentas Microsoft, como o PowerAutomate, PowerBI, e programação em Python.",
+      "highlights": []
+    },
+    {
+      "name": "Departamento de Engenharia Elétrica e Computação - SEL (EESC-USP)",
+      "position": "Estagiário de Sistemas Fotovoltaicos",
+      "startDate": "2024-09",
+      "endDate": "2025-07",
+      "summary": "Desenvolvimento de projeto e memorial descritivo para instalações fotovoltaicas no câmpus da USP São Carlos. Módulos fotovoltaicos, inversores, sistemas de medição e proteção.\n\n Uso de AUTOCAD para criação de diagramas 2D, diagramas unifilares. Conhecimentos sobre normas técnicas ABNT e ANEEL. Uso do software PVSyst para design de sistemas fotovoltaicos.\n\n Análises de custos, manutenção de documentos, organização de visitas técnicas e outras atividades administrativas do GT de Transição Energética da USP.",
+      "highlights": []
+    },
+    {
+      "name": "Ambar Tech",
+      "position": "Analista de Qualidade",
+      "startDate": "2024-05",
+      "endDate": "2025-10",
+      "summary": "Elaboração de orçamentos, análises de custos de projetos e obras, uso de Revit e AUTOCAD para visualização dos projetos recebidos, comparação de métodos de construção tradicionais e soluções da companhia. \n\n Análise de dados e criação de painéis para informar sobre estoques, compras, vendas, produção, pagamentos de salários e benefícios. Com ferramentas como ERP TOTVS Protheus, Salesforce, Excel, Google Sheets, PostgreSQL, Power BI, LookerStudio. \n\n Participação de projetos de melhoria de processos na área de estoque, compras, produção. Criação de cronogramas e ferramentas para aplicação das melhorias.",
+      "highlights": []
+    },
+    {
+      "name": "Ambar Tech",
+      "position": "Estagiário de Qualidade",
+      "startDate": "2023-03",
+      "endDate": "2024-05",
+      "summary": "Elaboração de orçamentos, análises de custos de projetos e obras, uso de Revit e AUTOCAD para visualização dos projetos recebidos, comparação de métodos de construção tradicionais e soluções da companhia. \n\n Análise de dados e criação de painéis para informar sobre estoques, compras, vendas, produção, pagamentos de salários e benefícios. Com ferramentas como ERP TOTVS Protheus, Salesforce, Excel, Google Sheets, PostgreSQL, Power BI, LookerStudio. \n\n Participação de projetos de melhoria de processos na área de estoque, compras, produção. Criação de cronogramas e ferramentas para aplicação das melhorias.",
+      "highlights": []
+    },
+    {
+      "name": "Aulas particulares de inglês",
+      "position": "Professor de inglês",
+      "startDate": "2022-01",
+      "endDate": "2023-03",
+      "summary": "Aulas de conversação, gramática, vocabulário. \n\n Preparação de apostilas, exercícios, cronogramas e planos das aulas.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de São Paulo - USP. Escola de Engenharia de São Carlos - EESC",
+      "location": "São Carlos - SP, Brasil",
+      "area": "Engenharia",
+      "studyType": "Graduate",
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Engenharia elétrica, ênfase em sistemas de energia e automação"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo",
+      "icon": ""
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Fluente",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
+}
