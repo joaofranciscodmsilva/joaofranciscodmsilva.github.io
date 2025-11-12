@@ -203,10 +203,10 @@ exclude:
   - _pages/en-us/dropdown.md
   - _pages/en-us/blog.md
   - _pages/en-us/projects.md
-  - "./_posts/*"
-  - "./_projects/*"
-  - "./_books/*"
-  - "./_news/*"
+  - _posts/
+  - _projects/
+  - _books/
+  - _news/
 keep_files:
   - CNAME
   - .nojekyll
