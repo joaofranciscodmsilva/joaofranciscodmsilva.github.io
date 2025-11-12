@@ -204,7 +204,7 @@ exclude:
   - _pages/en-us/blog.md
   - _pages/en-us/projects.md
   - _posts/*
-  - _projects/*
+  - "./_projects/*"
 keep_files:
   - CNAME
   - .nojekyll
