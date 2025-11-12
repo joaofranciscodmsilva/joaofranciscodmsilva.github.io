@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# Frequently Asked Questions teste
 
 Here are some frequently asked questions. If you have a different question, please check if it was not already answered in the Q&A section of the [GitHub Discussions](https://github.com/alshedivat/al-folio/discussions/categories/q-a) of the original al-folio. If not, feel free to ask a new question there.
 
