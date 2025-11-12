@@ -65,7 +65,52 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "Novidades",},{
+          section: "Novidades",},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/9_project/";
+            },},{id: "projects-projeto-1",
+          title: 'projeto 1',
+          description: "com imagem de fundo",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/pt-br/1_project/";
+            },},{id: "projects-projeto-2",
+          title: 'projeto 2',
+          description: "um projeto com imagem de fundo e comentários do giscus",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/pt-br/2_project/";
+            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
+          title: 'projeto 3 com um nome bem longo',
+          description: "um projeto que redireciona pra outro website",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/pt-br/3_project/";
+            },},{id: "projects-projeto-4",
+          title: 'projeto 4',
+          description: "outro sem imagem",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/pt-br/4_project/";
+            },},{id: "projects-projeto-5",
+          title: 'projeto 5',
+          description: "um projeto com imagem de fundo",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/pt-br/5_project/";
+            },},{id: "projects-projeto-6",
+          title: 'projeto 6',
+          description: "um projeto sem imagem",
+          section: "Projetos",handler: () => {
+              window.location.href = "/projects/pt-br/6_project/";
+            },},{
           id: 'lang-en-us',
           title: 'en-us',
           section: 'Idiomas',
